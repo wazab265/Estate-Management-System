@@ -1,5 +1,6 @@
 # Real Estate Management System
 ### UNIVERSITY PROJECT
+## Developed using AGILE Product Development lifecycle
 
 - Shows various features of the Apartments , along with binding rules and acts as a advertising platform.
 - Authenticates employees and provides them access to manipulate data based on their clearance level.
